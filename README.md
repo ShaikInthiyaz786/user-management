@@ -4,15 +4,15 @@ A simple React-based User Management Dashboard that allows users to fetch, add, 
 
 ## 🛠️ Features
 
-Fetch Users: Fetch and display a list of users from the JSONPlaceholder API.
-Add User: Add a new user to the dashboard with fields for ID, first name, last name, email, and department.
-Edit User: Update existing user details.
-Delete User: Remove a user from the list.
-Error Handling: User-friendly messages for API failures.
-Responsive UI: Optimized for different screen sizes using CSS or libraries like Bootstrap.
-Bonus Features:
-Pagination for easy navigation through user lists.
-Client-side form validation for ensuring proper data submission.
+- Fetch Users: Fetch and display a list of users from the JSONPlaceholder API.
+- Add User: Add a new user to the dashboard with fields for ID, first name, last name, email, and department.
+- Edit User: Update existing user details.
+- Delete User: Remove a user from the list.
+- Error Handling: User-friendly messages for API failures.
+- Responsive UI: Optimized for different screen sizes using CSS or libraries like Bootstrap.
+- Bonus Features:
+- Pagination for easy navigation through user lists.
+- Client-side form validation for ensuring proper data submission.
 
 ## 🚀 Getting Started
 
