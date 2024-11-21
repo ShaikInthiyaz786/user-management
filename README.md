@@ -113,10 +113,11 @@ Submit a pull request.
 
 This project is open-source and available under the MIT License.
 
-🧑‍💻 Author
-Shaik Inthiyaz
+## 🧑‍💻 Author
 
-Portfolio: https://inthiyazportfolio.netlify.app/
-LinkedIn: http://www.linkedin.com/in/inthiyaz-shaik
-GitHub: https://github.com/ShaikInthiyaz786
-Feel free to modify this README.md as needed! Let me know if you need any additional sections.
+**Shaik Inthiyaz**
+
+- Portfolio: https://inthiyazportfolio.netlify.app/
+- LinkedIn: http://www.linkedin.com/in/inthiyaz-shaik
+- GitHub: https://github.com/ShaikInthiyaz786
+- Feel free to modify this README.md as needed! Let me know if you need any additional sections.
