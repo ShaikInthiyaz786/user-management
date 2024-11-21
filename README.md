@@ -78,20 +78,20 @@ Bootstrap (optional): For responsive and styled UI components.
 
 ## 💻 How to Use
 
-Fetch Users
-Open the application.
-View the list of users fetched from the `JSONPlaceholder` API.
-Add a User
-Click on the "Add User" button.
-Fill out the form with user details.
-Submit to add the user to the list.
-Edit a User
-Click on the "Edit" button next to a user.
-Update the details in the form.
-Submit to save the changes.
-Delete a User
-Click on the "Delete" button next to a user.
-Confirm the action to remove the user from the list.
+- **Fetch Users**
+- Open the application.
+- View the list of users fetched from the `JSONPlaceholder` API.
+- Add a User
+- Click on the "Add User" button.
+- Fill out the form with user details.
+- Submit to add the user to the list.
+- Edit a User
+- Click on the "Edit" button next to a user.
+- Update the details in the form.
+- Submit to save the changes.
+- Delete a User
+- Click on the "Delete" button next to a user.
+- Confirm the action to remove the user from the list.
 
 ## 🛠️ Known Issues
 
