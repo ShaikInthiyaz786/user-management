@@ -26,26 +26,18 @@ npm or yarn
 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/user-management-dashboard.git
-cd user-management-dashboard
+`git clone https://github.com/your-username/user-management-dashboard.git`
+`cd user-management-dashboard`
 Install Dependencies
 
-bash
-Copy code
-npm install
+`npm install`
 Start the Development Server
 
-bash
-Copy code
-npm start
+`npm start`
 The application will run at http://localhost:3000.
 
 ## 📂 Project Structure
 
-php
-Copy code
 user-management-dashboard/
 │
 ├── public/ # Static files
@@ -72,10 +64,10 @@ user-management-dashboard/
 
 This project interacts with the JSONPlaceholder API for demonstration purposes. The following API endpoints are used:
 
-Get Users: GET /users
-Add User: POST /users
-Edit User: PUT /users/{id}
-Delete User: DELETE /users/{id}
+Get Users: `GET /users`
+Add User: `POST /users`
+Edit User: `PUT /users/{id}`
+Delete User: `DELETE /users/{id}`
 
 ## 📦 Packages Used
 
@@ -88,7 +80,7 @@ Bootstrap (optional): For responsive and styled UI components.
 
 Fetch Users
 Open the application.
-View the list of users fetched from the JSONPlaceholder API.
+View the list of users fetched from the `JSONPlaceholder` API.
 Add a User
 Click on the "Add User" button.
 Fill out the form with user details.
@@ -103,7 +95,7 @@ Confirm the action to remove the user from the list.
 
 ## 🛠️ Known Issues
 
-Data persistence: The JSONPlaceholder API does not save changes, so added/edited/deleted users are not persistent.
+Data persistence: The `JSONPlaceholder` API does not save changes, so added/edited/deleted users are not persistent.
 Pagination and infinite scrolling require manual adjustments to simulate API responses.
 
 ## 🤝 Contributing
@@ -112,9 +104,8 @@ Contributions are welcome! Follow these steps:
 
 Fork the repository.
 Create a new branch for your feature:
-bash
-Copy code
-git checkout -b feature-name
+
+`git checkout -b feature-name`
 Commit your changes and push to your branch.
 Submit a pull request.
 
@@ -126,6 +117,6 @@ This project is open-source and available under the MIT License.
 Shaik Inthiyaz
 
 Portfolio: https://inthiyazportfolio.netlify.app/
-LinkedIn: https://www.linkedin.com/in/shaik-inthiyaz
-GitHub: https://github.com/shaik-inthiyaz
+LinkedIn: http://www.linkedin.com/in/inthiyaz-shaik
+GitHub: https://github.com/ShaikInthiyaz786
 Feel free to modify this README.md as needed! Let me know if you need any additional sections.
